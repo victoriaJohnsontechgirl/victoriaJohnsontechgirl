@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm victoria Johnson tech👨‍💻girl</h1>
-<h3 align="center">A passionate female frontend developer</h3>
+<h3 align="center">A passionate FEMALE frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriajohnsontechgirl&label=Profile%20views&color=0e75b6&style=flat" alt="victoriajohnsontechgirl" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **html, css,JavaScript,react**
 
-- 📫 How to reach me **victoriajohnson927@gmail.com**
+- 📫 How to reach me **victoriajohnson9272@gmail.com**
 
 - ⚡ Fun fact **I am outgoing⚡ and I think Iam funny😂**
 
