@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoriajohnsontechgirl&label=Profile%20views&color=0e75b6&style=flat" alt="victoriajohnsontechgirl" /> </p>
 
-- 🌱 I’m currently learning **Sass, react, typescript**
+- 🌱 I’m currently learning **react.js, node.js, express.js**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/victoriaJohnsontechgirl](https://github.com/victoriaJohnsontechgirl)
 
-- 💬 Ask me about **html, css,JavaScript,react**
+- 💬 Ask me about **HTML,CSS,TAILWIND, JAVASCRIPT,REACT.JS,**
 
 - 📫 How to reach me **victoriajohnson9272@gmail.com**
 
